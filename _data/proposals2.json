@@ -1,12 +1,5 @@
 [
     {
-        "author": "Scott Kellum", 
-        "description": "Beautifully designed longform articles are a hot topic right now but making them work efficiently and at scale is still a hard problem to solve. At Vox Media we have been building and refining longform journalism and art directed posts for years in a way that we can do a lot of big things at a large scale without putting a strain on our designers and developers. This talk will go into the evolution of our art directed posts at Vox Media and our process around them.", 
-        "id": 3597, 
-        "submitted_at": "2014-05-23T16:02:50.278Z", 
-        "title": "Art directing posts, sustainably"
-    }, 
-    {
         "author": "Matt Boggie / Alexis Lloyd", 
         "description": "Anyone who’s written for the web has encountered content management systems: complex monoliths of templates, business rules and workflow that take words and media and transform them into the pages and articles our readers see. Anyone who has worked with these systems for long is also familiar with their flaws, their temperamental assumptions about the world, their frustrating constraints, their sometimes-incomprehensible syntax and controls. Even when they work well, they are monolithic systems that represent fossilizations of earlier processes, and are painful to augment and extend.\r\n\r\nThis session will be to convene a discussion about what’s wrong with CMSes -- both the systems themselves and the very concept of CMS -- and some possible solutions. What could be possible when we begin to think beyond the CMS as we know it? What systems or protocols could we create that might not be subject to the same problems and limitations? The New York Times R&D Lab will also present some early work showing what an (admittedly futuristic) alternative could look like.", 
         "id": 3578, 
