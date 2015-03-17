@@ -26,5 +26,12 @@
         "id": 3571, 
         "submitted_at": "2014-05-22T21:44:11.050Z", 
         "title": "hands-on: wrangling live data the easy way with streamtools"
+    }, 
+    {
+        "author": "Derek Willis", 
+        "description": "Data about people is all around us. It also comes in countless varieties of formats, with \"unique\" identifiers that aren't or no identification system at all. We all have to deal with people data in our reporting and applications. How do we do it? What are the best (and worst) tools and libraries? What about determining gender? This session is designed to unearth the practices that we use for handling personal identifiers and to find the best ones or to figure out where the unmet needs are, and try to start solving them. Open to any and all languages and platforms.", 
+        "id": 3499, 
+        "submitted_at": "2014-05-23T01:27:53.803Z", 
+        "title": "Sartre Was Wrong: Hell is Data About Other People"
     }
 ]
